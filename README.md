@@ -1,19 +1,33 @@
 # miniproject-ppkd
 
-## GitHub Learning
+## Deskripsi
 
-Repository ini digunakan untuk mempelajari fundamental Git dan GitHub.
+Repository ini berisi mini project dan latihan pengembangan aplikasi/data.
 
-### Level 1
+## Teknologi
 
-Materi yang dipelajari:
+- Python
+- Pandas
+- Jupyter Notebook
+- PostgreSQL
+- Git
+- GitHub
 
-- Repository
-- Clone
-- Status
-- Add
-- Commit
-- Push
-- Pull
-- Gitignore
-- README
+## Struktur Project
+
+- Dataset
+- Notebook
+- Dokumentasi
+- Presentasi
+
+## Menjalankan Project
+
+Clone repository:
+
+git clone <repository-url>
+
+Masuk ke directory project dan aktifkan environment Python.
+
+## Author
+
+Jayyid Tamam
