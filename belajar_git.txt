@@ -1,0 +1,12 @@
+BELAJAR GIT & GITHUB - LEVEL 1
+
+Materi:
+1. Repository
+2. Clone
+3. Status
+4. Add
+5. Commit
+6. Push
+7. Pull
+8. Gitignore
+9. README
