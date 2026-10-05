@@ -25,6 +25,7 @@
 2024,360,Indonesia,156,China,M,Import,902219,"Apparatus based on the use of x-rays, including radiography or radiotherapy apparatus; for other than medical, surgical, dental or veterinary uses",N/A,0.0,293885.0,27741758.0,True
 2024,360,Indonesia,156,China,M,Import,847960,Machinery and mechanical appliances; evaporative air coolers,N/A,0.0,5103839.0,26858185.0,True
 2024,360,Indonesia,156,China,M,Import,847920,Machinery; for the extraction or preparation of animal or fixed vegetable or microbial fats or oils,N/A,0.0,2600841.0,25234764.0,True
+2024,360,Indonesia,156,China,M,Import,850431,"Electrical transformers; n.e.c. in item no. 8504.2, having a power handling capacity not exceeding 1kVA",N/A,0.0,2713647.0,24779344.0,True
 2024,360,Indonesia,156,China,M,Import,845530,Metal-rolling mills; rolls thereof,N/A,0.0,9724796.0,24564827.0,True
 2024,360,Indonesia,156,China,M,Import,845380,"Machinery; for making or repairing articles of hides, skins or leather, other than sewing machines",N/A,0.0,1990587.0,23808181.0,True
 2024,360,Indonesia,156,China,M,Import,902680,"Instruments and apparatus; for measuring or checking variables of liquids or gases (excluding pressure or the flow and level of liquids and those of heading no. 9014, 9015, 9028 and 9032)",N/A,0.0,3041840.0,23184796.0,True
@@ -166,7 +167,6 @@
 2024,360,Indonesia,156,China,M,Import,848210,Ball bearings,N/A,0.0,3828.0,41618.0,True
 2024,360,Indonesia,156,China,M,Import,846490,"Machine-tools; for working stone, ceramics, concrete, asbestos-cement or like mineral materials or for cold working glass, (other than sawing, grinding or polishing machines)",N/A,0.0,3347.0,38500.0,True
 2024,360,Indonesia,156,China,M,Import,848340,"Gears and gearing; (not toothed wheels, chain sprockets and other transmission elements presented separately); ball or roller screws; gear boxes and other speed changers, including torque converters",N/A,0.0,6700.0,34600.0,True
-2024,360,Indonesia,156,China,M,Import,852190,Video recording or reproducing apparatus; other than magnetic tape-type,N/A,0.0,349.0,33488.0,True
 2024,360,Indonesia,156,China,M,Import,845951,"Machine-tools; for milling by removing metal, knee-type, numerically controlled",N/A,0.0,4594.0,26995.0,True
 2024,360,Indonesia,156,China,M,Import,847740,"Machinery; vacuum moulding machines and other thermoforming machines, for working rubber or plastics or for the manufacture of products from these materials",N/A,0.0,4634.0,26804.0,True
 2024,360,Indonesia,156,China,M,Import,850760,"Electric accumulators; lithium-ion, including separators, whether or not rectangular (including square)",N/A,0.0,564.0,26025.0,True
@@ -258,6 +258,7 @@
 2024,360,Indonesia,156,China,M,Import,847989,"Machines and mechanical appliances; having individual functions, n.e.c. or included in this chapter",N/A,0.0,244.0,1358.0,True
 2024,360,Indonesia,156,China,M,Import,910299,"Pocket watches and other watches, including stop-watches; (excluding wrist-watches), other than those of heading no. 9101, other than electrically operated",N/A,0.0,40.0,1349.0,True
 2024,360,Indonesia,156,China,M,Import,611710,"Shawls, scarves, mufflers, mantillas, veils and the like; knitted or crocheted",N/A,0.0,129.0,1324.0,True
+2024,360,Indonesia,156,China,M,Import,852190,Video recording or reproducing apparatus; other than magnetic tape-type,N/A,0.0,153.0,1272.0,True
 2024,360,Indonesia,156,China,M,Import,850730,"Electric accumulators; nickel-cadmium, including separators, whether or not rectangular (including square)",N/A,0.0,16.0,1256.0,True
 2024,360,Indonesia,156,China,M,Import,851671,"Electro-thermic appliances; coffee or tea makers, of a kind used for domestic purposes",N/A,0.0,32.0,1211.0,True
 2024,360,Indonesia,156,China,M,Import,841430,Compressors; of a kind used in refrigerating equipment,N/A,0.0,75.0,1196.0,True
@@ -284,11 +285,11 @@
 2024,360,Indonesia,156,China,M,Import,920590,"Musical instruments; wind, other than brass, (eg. clarinet, bagpipes, pipe organs), other than fairground organs and mechanical street organs",N/A,0.0,23.0,739.0,True
 2024,360,Indonesia,156,China,M,Import,851810,Microphones and stands therefor,N/A,0.0,60.0,729.0,True
 2024,360,Indonesia,156,China,M,Import,852550,"Transmission apparatus for radio-broadcasting or television, whether or not incorporating sound recording or reproducing apparatus, not incorporating reception apparatus",N/A,0.0,14.0,716.0,True
-2024,360,Indonesia,156,China,M,Import,851539,"Welding machines and apparatus; for arc (including plasma arc) welding of metals, other than fully or partly automatic, whether or not capable of cutting",N/A,0.0,1.0,713.0,True
 2024,360,Indonesia,156,China,M,Import,291211,"Aldehydes; acyclic, without other oxygen function, methanal (formaldehyde)",N/A,0.0,0.0,705.0,True
 2024,360,Indonesia,156,China,M,Import,843280,Rollers; for lawns or sports-grounds,N/A,0.0,160.0,695.0,True
 2024,360,Indonesia,156,China,M,Import,900580,"Monoculars; other optical telescopes and astronomical instruments, excluding instruments for radio-astronomy",N/A,0.0,35.0,657.0,True
 2024,360,Indonesia,156,China,M,Import,970290,"Engravings, prints and lithographs; original of an age not exceeding 100 years",N/A,0.0,63.0,641.0,True
+2024,360,Indonesia,156,China,M,Import,901730,"Mathematical equipment; micrometers, callipers and gauges",N/A,0.0,21.0,630.0,True
 2024,360,Indonesia,156,China,M,Import,851439,"Furnaces and ovens; electric, for industrial or laboratory use, other than those functioning by induction, dielectric loss or resistance heated, other than electron beam, plasma or vacuum arc furnaces",N/A,0.0,60.0,619.0,True
 2024,360,Indonesia,156,China,M,Import,903210,"Regulating or controlling instruments and apparatus; automatic type, thermostats",N/A,0.0,21.0,605.0,True
 2024,360,Indonesia,156,China,M,Import,071040,"Vegetables; sweetcorn, uncooked or cooked by steaming or boiling in water, frozen",N/A,0.0,0.0,598.0,True
@@ -300,10 +301,11 @@
 2024,360,Indonesia,156,China,M,Import,610449,"Dresses; women's or girls', of textile materials (other than wool or fine animal hair, cotton, synthetic or artificial fibres), knitted or crocheted",N/A,0.0,61.0,500.0,True
 2024,360,Indonesia,156,China,M,Import,850152,"Electric motors; AC motors, multi-phase, of an output exceeding 750W but not exceeding 75kW",N/A,0.0,28.0,497.0,True
 2024,360,Indonesia,156,China,M,Import,902910,"Meters and counters; revolution counters, production counters, taximeters, mileometers, pedometers and the like",N/A,0.0,22.0,495.0,True
+2024,360,Indonesia,156,China,M,Import,846711,"Tools; for working in the hand, pneumatic, rotary type (including combined rotary-percussion)",N/A,0.0,69.0,492.0,True
 2024,360,Indonesia,156,China,M,Import,920290,"Musical instruments; string, played other than with a bow (e.g. guitars and harps)",N/A,0.0,8.0,463.0,True
 2024,360,Indonesia,156,China,M,Import,950730,Fishing reels,N/A,0.0,20.0,457.0,True
-2024,360,Indonesia,156,China,M,Import,871495,"Cycles; parts thereof, saddles",N/A,0.0,57.0,447.0,True
 2024,360,Indonesia,156,China,M,Import,846190,"Machine-tools; planing machines, and other machine-tools n.e.c. in heading no. 8461; working by removing metal, sinistered metal carbides or cerments.",N/A,0.0,8.0,447.0,True
+2024,360,Indonesia,156,China,M,Import,871495,"Cycles; parts thereof, saddles",N/A,0.0,57.0,447.0,True
 2024,360,Indonesia,156,China,M,Import,854089,Valves and tubes; n.e.c. in heading no. 8540,N/A,0.0,1.0,440.0,True
 2024,360,Indonesia,156,China,M,Import,901530,Surveying equipment; levels,N/A,0.0,43.0,438.0,True
 2024,360,Indonesia,156,China,M,Import,281511,Sodium hydroxide (caustic soda); solid,N/A,0.0,0.0,420.0,True
@@ -315,6 +317,7 @@
 2024,360,Indonesia,156,China,M,Import,950490,"Games; articles for funfair, table or parlour games, including pintables, special tables for casino games, automatic bowling alley equipment, n.e.c. in heading 9504",N/A,0.0,52.0,394.0,True
 2024,360,Indonesia,156,China,M,Import,840710,"Engines; for aircraft, spark-ignition reciprocating or rotary internal combustion piston engines",N/A,0.0,1.0,394.0,True
 2024,360,Indonesia,156,China,M,Import,853949,"Lamps; ultra-violet or infra-red lamps, (excluding arc-lamps)",N/A,0.0,8.0,388.0,True
+2024,360,Indonesia,156,China,M,Import,851539,"Welding machines and apparatus; for arc (including plasma arc) welding of metals, other than fully or partly automatic, whether or not capable of cutting",N/A,0.0,15.0,384.0,True
 2024,360,Indonesia,156,China,M,Import,420222,"Cases and containers; handbags (whether or not with shoulder strap and including those without handle), with outer surface of sheeting of plastics or of textile materials",N/A,0.0,112.0,379.0,True
 2024,360,Indonesia,156,China,M,Import,851120,"Ignition or starting equipment; ignition magnetos, magneto-dynamos and magnetic flywheels, of a kind used for spark or compression-ignition internal combustion engines",N/A,0.0,12.0,377.0,True
 2024,360,Indonesia,156,China,M,Import,903281,"Regulating or controlling instruments and apparatus; automatic, hydraulic or pneumatic",N/A,0.0,1.0,360.0,True
@@ -323,7 +326,7 @@
 2024,360,Indonesia,156,China,M,Import,920600,"Musical instruments; percussion (e.g. drums, xylophones, cymbals, castanets, maracas)",N/A,0.0,18.0,354.0,True
 2024,360,Indonesia,156,China,M,Import,850164,"Electric generators; AC generators, (alternators), other than photovoltaic generators, of an output exceeding 750kVA",N/A,0.0,1.0,352.0,True
 2024,360,Indonesia,156,China,M,Import,900661,Photographic flashlight apparatus; discharge lamp (electronic),N/A,0.0,314.0,345.0,True
-2024,360,Indonesia,156,China,M,Import,880220,"Aeroplanes and other aircraft, except unmanned; of an unladen weight not exceeding 2000kg",N/A,0.0,1.0,336.0,False
+2024,360,Indonesia,156,China,M,Import,880220,"Aeroplanes and other aircraft, except unmanned; of an unladen weight not exceeding 2000kg",N/A,0.0,1.0,336.0,True
 2024,360,Indonesia,156,China,M,Import,851680,"Resistors; electric heating, other than those of heading no. 8545",N/A,0.0,29.0,306.0,True
 2024,360,Indonesia,156,China,M,Import,852862,Projectors; capable of directly connecting to and designed for use with an automatic data processing machine of heading 84.71,N/A,0.0,9.0,303.0,True
 2024,360,Indonesia,156,China,M,Import,854239,Electronic integrated circuits; n.e.c. in heading no. 8542,N/A,0.0,18.0,287.0,True
@@ -336,7 +339,6 @@
 2024,360,Indonesia,156,China,M,Import,900510,Binoculars,N/A,0.0,5.0,229.0,True
 2024,360,Indonesia,156,China,M,Import,842489,"Mechanical appliances; for projecting, dispersing or spraying liquids or powders, for other than agricultural or horticultural use, whether or not hand-operated",N/A,0.0,10.0,227.0,True
 2024,360,Indonesia,156,China,M,Import,420211,"Cases and containers; trunks, suit-cases, vanity-cases, executive-cases, brief-cases, school satchels and similar containers, with outer surface of leather or of composition leather",N/A,0.0,40.0,214.0,True
-2024,360,Indonesia,156,China,M,Import,846711,"Tools; for working in the hand, pneumatic, rotary type (including combined rotary-percussion)",N/A,0.0,7.0,190.0,True
 2024,360,Indonesia,156,China,M,Import,900130,"Lenses, contact; unmounted, of any material, excluding elements of glass not optically worked",N/A,0.0,11.0,179.0,True
 2024,360,Indonesia,156,China,M,Import,901510,Rangefinders,N/A,0.0,7.0,173.0,True
 2024,360,Indonesia,156,China,M,Import,902480,"Machines and appliances; for testing the hardness, strength, compressibility, elasticity or other mechanical properties of materials other than metals",N/A,0.0,32.0,172.0,True
@@ -350,7 +352,7 @@
 2024,360,Indonesia,156,China,M,Import,851632,"Hair-dressing apparatus; electro-thermic, other than hair dryers",N/A,0.0,8.0,122.0,True
 2024,360,Indonesia,156,China,M,Import,610590,"Shirts; men's or boys', of textile materials (other than cotton or man-made fibres), knitted or crocheted",N/A,0.0,32.0,117.0,True
 2024,360,Indonesia,156,China,M,Import,903031,"Multimeters; for measuring or checking voltage, current, resistance or power (other than those for measuring or checking semiconductor wafer or devices), without a recording device",N/A,0.0,10.0,111.0,True
-2024,360,Indonesia,156,China,M,Import,880610,Unmanned aircraft; for carriage of passengers,N/A,0.0,1.0,108.0,False
+2024,360,Indonesia,156,China,M,Import,880610,Unmanned aircraft; for carriage of passengers,N/A,0.0,1.0,108.0,True
 2024,360,Indonesia,156,China,M,Import,844540,Textile machinery; winding (including weft-winding) or reeling machines,N/A,0.0,5.0,106.0,True
 2024,360,Indonesia,156,China,M,Import,851631,Hair-dressing apparatus; electro-thermic hair dryers,N/A,0.0,12.0,105.0,True
 2024,360,Indonesia,156,China,M,Import,843041,"Boring or sinking machinery; self-propelled, n.e.c. in heading no. 8430",u,0.0,13.0,101.0,True
@@ -367,16 +369,16 @@
 2024,360,Indonesia,156,China,M,Import,851511,"Brazing or soldering machines and apparatus; soldering irons and guns, whether or not capable of cutting",N/A,0.0,13.0,74.0,True
 2024,360,Indonesia,156,China,M,Import,843319,"Mowers; for lawns, parks or sports-grounds, other than with the cutting device rotating in a horizontal plane",N/A,0.0,7.0,70.0,True
 2024,360,Indonesia,156,China,M,Import,842641,"Cranes; self-propelled derricks and cranes, on tyres, n.e.c. in heading no. 8426",u,0.0,1.0,69.0,True
-2024,360,Indonesia,156,China,M,Import,821220,"Razors; safety razor blades, including razor blade blanks in strips",N/A,0.0,5.0,67.0,True
-2024,360,Indonesia,156,China,M,Import,843621,Poultry incubators and brooders,N/A,0.0,6.0,67.0,True
 2024,360,Indonesia,156,China,M,Import,851521,"Welding machines and apparatus; for resistance welding of metal, fully or partly automatic, whether or not capable of cutting",N/A,0.0,5.0,67.0,True
+2024,360,Indonesia,156,China,M,Import,843621,Poultry incubators and brooders,N/A,0.0,6.0,67.0,True
+2024,360,Indonesia,156,China,M,Import,821220,"Razors; safety razor blades, including razor blade blanks in strips",N/A,0.0,5.0,67.0,True
 2024,360,Indonesia,156,China,M,Import,851610,"Heaters; electric, instantaneous or storage water and immersion heaters",N/A,0.0,7.0,60.0,True
 2024,360,Indonesia,156,China,M,Import,841231,"Engines; pneumatic power engines and motors, linear acting (cylinders)",N/A,0.0,1.0,59.0,True
 2024,360,Indonesia,156,China,M,Import,852691,Radio navigational aid apparatus,N/A,0.0,15.0,57.0,True
-2024,360,Indonesia,156,China,M,Import,845180,"Machinery; for wringing, dressing, finishing, coating or impregnating textile yarns, fabrics or made up textile articles; for applying paste to base fabric used in manufacture of floor coverings",N/A,0.0,8.0,50.0,True
 2024,360,Indonesia,156,China,M,Import,100199,"Cereals; wheat and meslin, other than durum wheat, other than seed",N/A,0.0,0.0,50.0,False
-2024,360,Indonesia,156,China,M,Import,860390,"Railway or tramway coaches, vans and trucks; self-propelled, powered other than from an external source of electricity (excluding those of heading no. 8604)",N/A,0.0,1.0,48.0,True
+2024,360,Indonesia,156,China,M,Import,845180,"Machinery; for wringing, dressing, finishing, coating or impregnating textile yarns, fabrics or made up textile articles; for applying paste to base fabric used in manufacture of floor coverings",N/A,0.0,8.0,50.0,True
 2024,360,Indonesia,156,China,M,Import,620719,"Underpants and briefs; men's or boys', of textile materials other than cotton (not knitted or crocheted)",N/A,0.0,11.0,48.0,True
+2024,360,Indonesia,156,China,M,Import,860390,"Railway or tramway coaches, vans and trucks; self-propelled, powered other than from an external source of electricity (excluding those of heading no. 8604)",N/A,0.0,1.0,48.0,True
 2024,360,Indonesia,156,China,M,Import,821110,"Knives; with cutting blades, serrated or not (including pruning knives), sets of assorted articles, excluding knives and blades of heading no. 8208",N/A,0.0,10.0,47.0,True
 2024,360,Indonesia,156,China,M,Import,854079,"Tubes; microwave (for example klystrons, travelling wave tubes, carlinotrons), excluding magnetrons and grid-controlled tubes",N/A,0.0,1.0,45.0,True
 2024,360,Indonesia,156,China,M,Import,841112,Turbo-jets; of a thrust exceeding 25kN,u,0.0,1.0,40.0,False
@@ -389,26 +391,24 @@
 2024,360,Indonesia,156,China,M,Import,847180,"Units of automatic data processing machines; n.e.c. in item no. 8471.50, 8471.60 or 8471.70",N/A,0.0,1.0,28.0,True
 2024,360,Indonesia,156,China,M,Import,711019,"Metals; platinum, semi-manufactured",N/A,0.0,0.0,27.0,True
 2024,360,Indonesia,156,China,M,Import,840610,"Turbines; steam and other vapour turbines, for marine propulsion",N/A,0.0,1.0,25.0,True
-2024,360,Indonesia,156,China,M,Import,848350,"Pulleys and flywheels, including pulley blocks",N/A,0.0,1.0,20.0,True
 2024,360,Indonesia,156,China,M,Import,700330,"Glass; cast glass and rolled glass, profiles, not otherwise worked",N/A,0.0,1.0,20.0,True
 2024,360,Indonesia,156,China,M,Import,960400,Hand sieves and hand riddles,N/A,0.0,12.0,20.0,True
+2024,360,Indonesia,156,China,M,Import,848350,"Pulleys and flywheels, including pulley blocks",N/A,0.0,1.0,20.0,True
 2024,360,Indonesia,156,China,M,Import,842430,Mechanical appliances; steam or sand blasting machines and similar jet projecting machines,N/A,0.0,5.0,17.0,True
-2024,360,Indonesia,156,China,M,Import,960830,"Pens; fountain, stylograph and other pens",N/A,0.0,8.0,16.0,True
 2024,360,Indonesia,156,China,M,Import,901410,Navigational instruments and appliances; direction finding compasses,N/A,0.0,1.0,16.0,True
+2024,360,Indonesia,156,China,M,Import,960830,"Pens; fountain, stylograph and other pens",N/A,0.0,8.0,16.0,True
 2024,360,Indonesia,156,China,M,Import,844530,Textile machinery; doubling or twisting machines,u,0.0,1.0,15.0,True
-2024,360,Indonesia,156,China,M,Import,901730,"Mathematical equipment; micrometers, callipers and gauges",N/A,0.0,1.0,14.0,True
 2024,360,Indonesia,156,China,M,Import,901831,"Medical, surgical instruments and appliances; syringes, with or without needles",N/A,0.0,1.0,14.0,True
 2024,360,Indonesia,156,China,M,Import,710239,"Diamonds; non-industrial, (other than unworked or simply sawn, cleaved or bruted), but not mounted or set",N/A,0.0,0.0,11.0,True
 2024,360,Indonesia,156,China,M,Import,871200,"Bicycles and other cycles; including delivery tricycles, not motorised",N/A,0.0,6.0,10.0,True
 2024,360,Indonesia,156,China,M,Import,854232,Electronic integrated circuits; memories,N/A,0.0,1.0,10.0,True
-2024,360,Indonesia,156,China,M,Import,900659,"Cameras, photographic (excluding cinematographic); n.e.c. in heading no 9006",N/A,0.0,1.0,10.0,True
 2024,360,Indonesia,156,China,M,Import,902610,Instruments and apparatus; for measuring or checking the flow or level of liquids,N/A,0.0,1.0,10.0,True
+2024,360,Indonesia,156,China,M,Import,900659,"Cameras, photographic (excluding cinematographic); n.e.c. in heading no 9006",N/A,0.0,1.0,10.0,True
 2024,360,Indonesia,156,China,M,Import,841320,"Pumps; hand, fitted or designed to be fitted with a measuring device, for liquids, other than those of item no. 8413.11 or 8413.19",N/A,0.0,1.0,9.0,True
 2024,360,Indonesia,156,China,M,Import,610339,"Jackets and blazers; men's or boys', of textile materials (other than wool or fine animal hair, cotton or synthetic fibres), knitted or crocheted",N/A,0.0,1.0,8.0,True
-2024,360,Indonesia,156,China,M,Import,611220,Ski suits; knitted or crocheted,N/A,0.0,1.0,6.0,False
+2024,360,Indonesia,156,China,M,Import,611220,Ski suits; knitted or crocheted,N/A,0.0,1.0,6.0,True
 2024,360,Indonesia,156,China,M,Import,940340,"Furniture; wooden, for kitchen use",N/A,0.0,1.0,5.0,True
 2024,360,Indonesia,156,China,M,Import,850153,"Electric motors; AC motors, multi-phase, of an output exceeding 75kW",N/A,0.0,1.0,4.0,True
 2024,360,Indonesia,156,China,M,Import,610329,"Ensembles; men's or boys', of textile materials (other than cotton or synthetic fibres), knitted or crocheted",N/A,0.0,1.0,4.0,True
 2024,360,Indonesia,156,China,M,Import,370231,"Photographic film; for colour photography (polychrome), in rolls, sensitised, unexposed, without sprocket holes, of a width not exceeding 105mm (other than of paper, paperboard or textiles)",N/A,0.0,1.0,2.0,True
-2024,360,Indonesia,156,China,M,Import,850431,"Electrical transformers; n.e.c. in item no. 8504.2, having a power handling capacity not exceeding 1kVA",N/A,0.0,1.0,1.0,True
 2024,360,Indonesia,156,China,M,Import,841861,Heat pumps; other than air conditioning machines of heading no. 8415,N/A,0.0,1.0,1.0,True
